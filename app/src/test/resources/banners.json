@@ -1,0 +1,54 @@
+[
+  {
+    "sectionType": "banner",
+    "items": [
+      {
+        "title": "Jacket",
+        "image": "https://images.pexels.com/photos/789812/pexels-photo-789812.jpeg"
+      }
+    ]
+  },
+  {
+    "sectionType": "horizontalFreeScroll",
+    "items": [
+      {
+        "title": "Laptop",
+        "image": "https://images.pexels.com/photos/7974/pexels-photo.jpg"
+      },
+      {
+        "title": "Hat",
+        "image": "https://images.pexels.com/photos/984619/pexels-photo-984619.jpeg"
+      },
+      {
+        "title": "Sunglasses",
+        "image": "https://images.pexels.com/photos/343720/pexels-photo-343720.jpeg"
+      },
+      {
+        "title": "Watch",
+        "image": "https://images.pexels.com/photos/277390/pexels-photo-277390.jpeg"
+      }
+    ]
+  },
+  {
+    "sectionType": "splitBanner",
+    "items": [
+      {
+        "title": "Camera",
+        "image": "https://images.pexels.com/photos/225157/pexels-photo-225157.jpeg"
+      },
+      {
+        "title": "Perfumes",
+        "image": "https://images.pexels.com/photos/264819/pexels-photo-264819.jpeg"
+      }
+    ]
+  },
+  {
+    "sectionType": "banner",
+    "items": [
+      {
+        "title": "Bagpack",
+        "image": "https://images.pexels.com/photos/532803/pexels-photo-532803.jpeg"
+      }
+    ]
+  }
+]

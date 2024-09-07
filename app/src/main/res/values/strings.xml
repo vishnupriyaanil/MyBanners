@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Banners</string>
+    <string name="error_icon_content_description">Error Icon</string>
+    <string name="retry">Retry</string>
+    <string name="loading_banners">Loading banners, please wait…</string>
+</resources>
